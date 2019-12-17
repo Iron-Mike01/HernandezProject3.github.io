@@ -1,0 +1,22 @@
+body{
+  padding: 20px;
+}
+h1{
+  padding: 20px;
+  text-align: center;
+}
+.alert1{
+  width:50%;
+}
+.alert h4{
+  color:#181435
+;
+  font-size: 1.99em;
+}
+
+.alert-img{
+  width:100%;
+}
+.IWTMTTF{
+  float: right;
+}

@@ -1,0 +1,162 @@
+body{
+  padding:10px;
+}
+.linkModal1{
+text-align: center;
+background-color: black;
+font-size: 18px;
+border-radius: 18px;
+padding: 10px;
+text-decoration: none;
+color:purple;
+
+}
+.linkModal1:hover{
+background-color:silver;
+color:gold;
+}
+.mw{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left:0;
+  right:0;
+background-color: rgba(179, 255, 204,0.3);
+opacity: 0;
+pointer-events: none;
+}
+.mw:target{
+  opacity: 1;
+  pointer-events: auto;
+  transition: ease-in 3s;
+}
+.it{
+  position: absolute;
+  width: 700px;
+  height: 500px;
+  background-color: white;
+  top: 200px;
+  left: 500px;
+  padding: 20px;
+}
+p{
+  text-indent: 8px;
+}
+.it h3{
+  background-color: rgb(255, 117, 26);
+  padding: 10px;
+  color:rgb(0, 68, 204);
+}
+.it img{
+  width:30%;
+  margin-left: 35%
+}
+.m-c{
+  padding:12px;
+  color:rgb(179, 0, 89);
+  text-decoration: none;
+}
+.m-c:hover{
+  color: rgb(0, 0, 230);
+  text-decoration: underline;
+}
+.container{
+  margin-top: 15px;
+  width: 400px;
+  height: 540px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  border: 2px solid green;
+  float: left;
+  margin-left: 15%;
+}
+.img1{
+  width: 27%;
+  margin-top: 30px;
+  margin-left: 37.9%;
+
+}
+.texta{
+  text-align: center;
+}
+.one{
+  font-weight: bold;
+  color: blue;
+  font-style: italic;
+}
+.two{
+  color: rgb(84, 85, 88);
+  font-family: inherit;
+
+}
+.three{
+  font-size: 0.9em
+}
+.five{
+  font-size: 0.7em;
+  color:crimson;
+}
+.linkModel{
+background-color: black;
+font-size: 9px;
+padding: 10px;
+border-radius:none;
+text-decoration:none;
+color:white;
+margin-left: 1%;
+
+}
+.linkModel:hover{
+background-color:rgb(232, 234, 236);
+color:black;
+}
+.container2{
+  margin-top: 15px;
+  width: 400px;
+  height: 540px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  border: 2px solid rgb(255, 33, 78);
+  float: right;
+  margin-right: 15%;
+}
+.imga{
+  width: 27%;
+  margin-top: 30px;
+  margin-left: 37.9%;
+
+}
+.textb{
+  text-align: center;
+}
+.six{
+  font-weight: bold;
+  color: blue;
+  font-style: italic;
+}
+.seven{
+  color: rgb(84, 85, 88);
+  font-family: inherit;
+
+}
+.eight{
+  font-size: 0.9em
+}
+.ten{
+  font-size: 0.7em;
+  color:crimson;
+}
+.linkModela{
+background-color: black;
+font-size: 9px;
+padding: 10px;
+border-radius:none;
+text-decoration:none;
+color:white;
+margin-left: 1%;
+
+}
+.linkModela:hover{
+background-color:rgb(232, 234, 236);
+color:black;
+}
